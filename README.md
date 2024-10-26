@@ -1,2 +1,0 @@
-# Hospital
-Hosiptal management system
